@@ -1,0 +1,48 @@
+{
+  "Facial expression": ["jaw", "left_eye_smplhf", "right_eye_smplhf"],
+
+  "Finger tapping - Right hand": ["right_wrist", "right_index1", "right_index2", "right_index3", "right_thumb1", "right_thumb2", "right_thumb3"],
+  "Finger tapping - Left hand": ["left_wrist", "left_index1", "left_index2", "left_index3", "left_thumb1", "left_thumb2", "left_thumb3"],
+
+  "Hand movements - Right hand": ["right_wrist", "right_index1", "right_middle1", "right_ring1", "right_pinky1"],
+  "Hand movements - Left hand": ["left_wrist", "left_index1", "left_middle1", "left_ring1", "left_pinky1"],
+
+  "Pronation-supination - Right hand": ["right_wrist"],
+  "Pronation-supination - Left hand": ["left_wrist"],
+
+  "Toe tapping - Right foot": ["right_ankle", "right_foot"],
+  "Toe tapping - Left foot": ["left_ankle", "left_foot"],
+
+  "Leg agility - Right leg": ["right_hip", "right_knee", "right_ankle"],
+  "Leg agility - Left leg": ["left_hip", "left_knee", "left_ankle"],
+
+  "Arising from chair": ["pelvis", "left_hip", "right_hip", "left_knee", "right_knee", "spine1", "spine2", "spine3"],
+
+  "Gait": ["pelvis", "left_hip", "right_hip", "left_knee", "right_knee", "left_ankle", "right_ankle", "left_foot", "right_foot", "spine1", "spine2", "spine3"],
+
+  "Freezing of gait": ["pelvis", "left_hip", "right_hip", "left_knee", "right_knee", "left_ankle", "right_ankle", "left_foot", "right_foot"],
+
+  "Postural stability": ["pelvis", "spine1", "spine2", "spine3", "left_hip", "right_hip", "left_knee", "right_knee", "left_ankle", "right_ankle"],
+
+  "Posture": ["spine1", "spine2", "spine3", "neck"],
+
+  "Global spontaneity of movement": ["pelvis", "spine1", "spine2", "spine3", "left_shoulder", "right_shoulder", "left_elbow", "right_elbow", "left_wrist", "right_wrist", "left_hip", "right_hip", "left_knee", "right_knee", "left_ankle", "right_ankle"],
+
+  "Postural tremor - Right hand": ["right_wrist", "right_index1", "right_thumb1"],
+  "Postural tremor - Left hand": ["left_wrist", "left_index1", "left_thumb1"],
+
+  "Kinetic tremor - Right hand": ["right_wrist", "right_index1", "right_thumb1"],
+  "Kinetic tremor - Left hand": ["left_wrist", "left_index1", "left_thumb1"],
+
+  "Rest tremor amplitude - RUE": ["right_shoulder", "right_elbow", "right_wrist", "right_index1", "right_thumb1"],
+  "Rest tremor amplitude - LUE": ["left_shoulder", "left_elbow", "left_wrist", "left_index1", "left_thumb1"],
+  "Rest tremor amplitude - RLE": ["right_hip", "right_knee", "right_ankle", "right_foot"],
+  "Rest tremor amplitude - LLE": ["left_hip", "left_knee", "left_ankle", "left_foot"],
+  "Rest tremor amplitude - Lip/jaw": ["jaw"],
+
+  "Constancy of rest tremor": ["left_shoulder", "right_shoulder", "left_elbow", "right_elbow", "left_wrist", "right_wrist", "left_index1", "right_index1", "left_knee", "right_knee", "left_ankle", "right_ankle"],
+
+  "Dyskinesias": ["left_shoulder", "right_shoulder", "left_elbow", "right_elbow", "left_hip", "right_hip", "left_knee", "right_knee", "left_wrist", "right_wrist"],
+
+  "Hoehn and Yahr Stage": ["pelvis", "spine1", "spine2", "spine3", "neck", "left_hip", "right_hip", "left_ankle", "right_ankle"]
+}
